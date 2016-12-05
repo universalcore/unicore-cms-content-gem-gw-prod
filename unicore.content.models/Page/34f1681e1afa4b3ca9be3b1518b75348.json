@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Existem tr\u00eas formas de ganhar um dinheiro extra de forma divertida. ", 
-  "language": "por_AO", 
+  "language": "por_PT", 
   "title": "Como ganhar dinheiro de forma divertida!", 
   "primary_category": "b224ca3e6e394e529b6cb2368d983991", 
   "created_at": "2016-07-26T15:49:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-08-16T13:11:08.010579+00:00", 
+  "modified_at": "2016-12-05T08:37:42.816718+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 14, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-ganhar-dinheiro-de-forma-divertida", 
   "uuid": "34f1681e1afa4b3ca9be3b1518b75348"
